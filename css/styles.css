@@ -24,7 +24,24 @@
         padding: 20px;
         height: 300px;
         display: flex;
-        align-items: stretch;
-        justify-content: space-between;
+        align-items: stretch;/*vertically*/
+        justify-content: space-between;/*horizontal*/
         
 }
+
+ /* 
+ align item
+1.flex start
+2.flex-end
+3.center 
+4.baseline
+5.stretch
+ */
+
+ .container-direction{
+        border: 2px solid #ff00e1;
+        padding: 20px;
+        display: flex;
+        height: 300px;
+        flex-direction: column-reverse;
+ }
