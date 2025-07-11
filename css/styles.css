@@ -1,0 +1,14 @@
+.container{
+    border: 2px solid blueviolet;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.item{
+    background-color: lightcoral;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+
+}
