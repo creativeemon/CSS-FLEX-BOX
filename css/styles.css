@@ -12,3 +12,9 @@
     text-align: center;
 
 }
+.container-justify{
+        border: 2px solid rgb(26, 40, 236);
+        padding: 20px;
+        display: flex;
+        justify-content: space-evenly;
+}
