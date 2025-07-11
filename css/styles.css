@@ -18,3 +18,13 @@
         display: flex;
         justify-content: space-evenly;
 }
+
+.content-align{
+        border: 2px solid rgb(26, 40, 236);
+        padding: 20px;
+        height: 300px;
+        display: flex;
+        align-items: stretch;
+        justify-content: space-between;
+        
+}
